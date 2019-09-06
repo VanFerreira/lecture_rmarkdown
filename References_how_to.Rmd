@@ -1,5 +1,5 @@
 ---
-bibliography: HEALTH SENSITIVITY-Gender Paradox.bib
+bibliography: Cap_1.bib
 title: "References"
 author: "Vanessa di Lego"
 date: "7/29/2019"
@@ -104,7 +104,7 @@ knitr::include_graphics("C:/Users/vdile/Documents/Git/lecture_rmarkdown-master/l
 ```
 
 Pronto! Como eu tenho uma pasta para cada referência, tenho várias pastas. Mas você pode ter só uma ou até mesmo salvar somente uma referência! 
-Salve em um pendrive ou envie para o seu e-mail para podermos trabalhar com isso em sala de aula. Um exemplo do uso é agora eu citar `[@Benyamini1999]` e aparecer como [@Benyamini1999] no texto e nas referências abaixo!
+Salve em um pendrive ou envie para o seu e-mail para podermos trabalhar com isso em sala de aula. Um exemplo do uso é agora eu citar `[@Benyamini1999]` e aparecer como [@Foundation2018] no texto e nas referências abaixo! mais vbal balb a[@Marchetti1996; @WorldBank2018]
 
 ## References
 
