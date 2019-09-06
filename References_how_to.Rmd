@@ -1,8 +1,8 @@
 ---
 bibliography: Cap_1.bib
 title: "References"
-author: "Vanessa di Lego"
-date: "7/29/2019"
+author: "Vanessa Ferreira"
+date: "09/06/2019"
 fontsize: 12pt
 geometry: margin = 1.2in
 header-includes:
@@ -41,8 +41,6 @@ header-includes:
 - \usepackage{multirow}
 - \usepackage{graphicx}
 - \usepackage{microtype}
-- \usepackage[backend=bibtex]{biblatex}
-- \usepackage[portuguese]{babel}
 linestretch: 2
 linkcolor: black
 output:
@@ -59,52 +57,29 @@ urlcolor: black
 
 - Baixe o Mendeley para Desktop. Entre no site e adicione o login que fizeram hoje em sala. A página Parace como na figura abaixo:
 
-```{r, fig.align='center', out.width="90%"}
-knitr::include_graphics("C:/Users/vdile/Documents/Git/lecture_rmarkdown-master/lecture_rmarkdown/pag_1Mend.png")
-
-```
 
 
 - Depois entre no Mendeley na barra de ferramentas em "Tools" em clique em "Options
 
 
-```{r, fig.align='center', out.width="90%"}
-knitr::include_graphics("C:/Users/vdile/Documents/Git/lecture_rmarkdown-master/lecture_rmarkdown/Screenshot (4)_LI.jpg")
-
-```
-
 
 - Em "Options" abra a aba "Bibtex"
 
-```{r, fig.align='center', out.width="90%"}
-knitr::include_graphics("C:/Users/vdile/Documents/Git/lecture_rmarkdown-master/lecture_rmarkdown/Screenshot (6)_LI.jpg")
 
-```
 
 - Selecione os itens indicados pelas setas nas imagens e escreva na parte em branco o caminho. Esse é o diretório de todas as coisas referentes ao Rmarkdown onde você está trabalhando.
 
-```{r, fig.align='center', out.width="90%"}
-knitr::include_graphics("C:/Users/vdile/Documents/Git/lecture_rmarkdown-master/lecture_rmarkdown/Screenshot (7)_LI.jpg")
-
-```
 
 -Pressione o "Sync"
 
-```{r, fig.align='center', out.width="90%"}
-knitr::include_graphics("C:/Users/vdile/Documents/Git/lecture_rmarkdown-master/lecture_rmarkdown/Screenshot (9)_LI.jpg")
-
-```
 
 
 - Confirme se no seu diretório de trabalho encontra arquivos escritos "BibteX Database"
 
-```{r, fig.align='center', out.width="90%"}
-knitr::include_graphics("C:/Users/vdile/Documents/Git/lecture_rmarkdown-master/lecture_rmarkdown/Screenshot (10)_LI.jpg")
-
-```
 
 Pronto! Como eu tenho uma pasta para cada referência, tenho várias pastas. Mas você pode ter só uma ou até mesmo salvar somente uma referência! 
-Salve em um pendrive ou envie para o seu e-mail para podermos trabalhar com isso em sala de aula. Um exemplo do uso é agora eu citar `[@Benyamini1999]` e aparecer como [@Foundation2018] no texto e nas referências abaixo! mais vbal balb a[@Marchetti1996; @WorldBank2018]
+Salve em um pendrive ou envie para o seu e-mail para podermos trabalhar com isso em sala de aula. Um exemplo do uso é agora eu citar `[@Benyamini1999]` e aparecer como [@Foundation2018] no texto e nas referências abaixo! mais vbal balb a[@Marchetti1996; @WorldBank2018]. [@Duthe2010; @Foundation2018; @WorldBank2018].
+Tentando fazer com que caracteres especiais apareçam: saõ joão demias uai ççççãaãããããããã~fu¨dd
 
 ## References
 
